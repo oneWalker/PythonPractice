@@ -34,7 +34,7 @@ while(count<50):
         count_s=count_s+1
         sum+=int(star)
         print("rating"+star)
-    #time.sleep(5)#delay request
+    time.sleep(5)#delay request
     i+=1
     if count >= 50:
         print(sum/count_s)
