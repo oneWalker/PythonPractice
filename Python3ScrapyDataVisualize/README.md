@@ -1,4 +1,4 @@
-- 适用于python的colab平台https://colab.research.google.com/notebooks/intro.ipynb#
+- 适用于python的[colab平台](https://colab.research.google.com/notebooks/intro.ipynb#)
 
 - python基础
 
