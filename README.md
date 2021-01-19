@@ -38,7 +38,7 @@
 
 课程链接：
 
-- [Coursera.org]()
+- [Coursera.org](https://www.coursera.org/learn/ntumlone-mathematicalfoundations?utm_campaign=header-for-students&utm_content=corp-to-landing-for-students&utm_medium=coursera&utm_source=header-for-students-link#instructors)
 
 [练习代码地址](https://github.com/oneWalker/PythonPractice/tree/master/MLFoundations):
     主要是机器学习基石上面的一些作业。
