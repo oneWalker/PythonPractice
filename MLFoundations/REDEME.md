@@ -11,3 +11,4 @@
             - [train](https://www.csie.ntu.edu.tw/~htlin/mooc/datasets/mlfound_math/hw1_18_test.dat)
         - [代码实现](https://github.com/oneWalker/PythonPractice/tree/master/MLFoundations/pocket.py)
     - sklearn自带方式
+        - sklearn.lnear_model.LogisticRegressionCV()
