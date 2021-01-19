@@ -28,3 +28,17 @@
 - [豆瓣](https://book.douban.com/subject/30190201/)
 
 [练习代码地址](https://github.com/oneWalker/PythonPractice/tree/master/Python3ScrapyDataVisualize)
+
+## 课程：机器学习基石(台湾大学)
+
+评价：推荐，主要是机器学习的一些推导相关的
+
+简介：
+    由台湾大学林轩田教授讲授，机器学习相关的一些基础推导。
+
+课程链接：
+
+- [Coursera.org]()
+
+[练习代码地址](https://github.com/oneWalker/PythonPractice/tree/master/MLFoundations):
+    主要是机器学习基石上面的一些作业。

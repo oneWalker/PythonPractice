@@ -1,0 +1,13 @@
+- PLA算法相关
+    - 训练数据
+        - Question15～17:
+        - Question18～20
+    - PLA算法
+        - 训练数据：[Question15~17](https://www.csie.ntu.edu.tw/~htlin/mooc/datasets/mlfound_math/hw1_15_train.dat)
+        - [代码实现](https://github.com/oneWalker/PythonPractice/tree/master/MLFoundations/pla.py)
+    - Pocket算法
+        - 训练数据：Question18~20
+            - [test](https://www.csie.ntu.edu.tw/~htlin/mooc/datasets/mlfound_math/hw1_18_train.dat)
+            - [train](https://www.csie.ntu.edu.tw/~htlin/mooc/datasets/mlfound_math/hw1_18_test.dat)
+        - [代码实现](https://github.com/oneWalker/PythonPractice/tree/master/MLFoundations/pocket.py)
+    - sklearn自带方式
