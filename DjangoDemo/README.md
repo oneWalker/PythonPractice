@@ -75,7 +75,8 @@ from appname.models import users
   python manage.py inspectdb
   #将代码导入到项目中
   python manage.py inspectdb > hello/models.py
-  #根据表名生成
+  #根据表名生成，不写默认写入表名
+  python manage.py inspectdb [tablename]
   ```
 
 - To Do List
